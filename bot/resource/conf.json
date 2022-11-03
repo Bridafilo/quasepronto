@@ -1,0 +1,28 @@
+{
+    "dono": "2008131672",
+    "manutencao": "false",
+    "userDono": "@DeanTramposDesign",
+    "versao": "2.1.1",
+    "updateDAte": "21/03/2021 as 18:28",
+    "price": {
+        "Gold": 30,
+        "Default": 30,
+        "standard": 16,
+        "default": 15,
+        "gold": 20,
+        "platinum": 25,
+        "elo": 30,
+        "bussines": 40,
+        "classic": 14,
+        "corporated": 40,
+        "black": 50,
+        "infiniti": 80,
+        "hypercard": 30
+    },
+    "pricemix": {
+        "2": 10,
+        "default": 15,
+        "3": 50
+    },
+    "welcome": "Olá {nome}, Seja bem vindo!\n\n[❓ Dúvidas](t.me/suportedealer)\n[👥 Grupo](t.me/joinchat/h40Rowrib5M4ZDMx)\n[📢 Canal](t.me/joinchat/tp7eE0WLlyA2ZTgx)\n[⚙️ Dev](t.me/bartofc"
+}
